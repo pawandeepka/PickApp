@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorone">#600122</color>
+    <color name="colortwo">#2ab312</color>
+    <color name="colorthree">#e4d533</color>
+    <color name="colorfour">#585755</color>
+    <color name="mapcolor">#b9b7b7</color>
+    <color name="mapcolor2">#455A64</color>
+    <color name="mapcolor3">#5D4037</color>
+    <color name="mapcolor4">#107396</color>
+    <color name="mapcolor5">#9E9E9E</color>
+    <color name="mapcolor7">#757575</color>
+    <color name="mapcolor8">#cadfff</color>
+    <color name="mapcolor9">#515c6d</color>
+    <color name="mapcolor10">#607D8B</color>
+    <color name="mapcolor11">#616161</color>
+    <color name="mapcolor12">#455A64</color>
+</resources>

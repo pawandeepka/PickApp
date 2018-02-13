@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--  case R.string.style_label_retro:
+                // Sets the retro style via raw resource JSON.
+                style = MapStyleOptions.loadRawResourceStyle(this, R.raw.mapstyle_retro);
+                break;
+            case R.string.style_label_night:
+                // Sets the night style via raw resource JSON.
+                style = MapStyleOptions.loadRawResourceStyle(this, R.raw.mapstyle_night);
+                break;
+            case R.string.style_label_grayscale:
+                // Sets the grayscale style via raw resource JSON.
+                style = MapStyleOptions.loadRawResourceStyle(this, R.raw.mapstyle_grayscale);
+                break;
+            case R.string.style_label_no_pois_no_transit:-->
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+</menu>
